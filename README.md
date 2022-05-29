@@ -1,6 +1,12 @@
-<h1>&ltHelloWorld title="Luciene Clemente" dev=true /&gt</h1>
-<br/>
+<h1>&ltHelloWorld name="Luciene Clemente" dev=true /&gt</h1>
 Seja bem vindo(a) ao meu perfil, conheça um pouco do meu mundo:
+<br/><br/>
+
+**Sobre mim**
+  - :briefcase:  Desenvolvedora Frontend em Ideia Soluções em TI
+  - 📱 Atuo focada no desenvolvimento mobile que a cada dia torna-se uma paixão maior (porém, sempre tem aquele pézinho na web)
+  - :file_folder: Amo a área de arquitetura de projeto
+  - :rocket: Gosto de estar a todo momento aprendendo uma nova tecnologia
 
 ## Social
 
