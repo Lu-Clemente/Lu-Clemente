@@ -17,8 +17,9 @@ Seja bem vindo(a) ao meu perfil, conheça um pouco do meu mundo:
 <a href="https://codepen.io/Lu-Clemente" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lu-Clemente&show_icons=true&count_private=true&hide=issues,contribs&theme=dark&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-Clemente&hide=dart&&layout=compact&theme=dark" />
+  <a href="https://github.com/Lu-Clemente">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lu-Clemente&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-Clemente&hide=dart&layout=compact&theme=dark" />
 </div>
 
 ## Linguagens de programação e Frameworks 
