@@ -4,11 +4,11 @@ Seja bem vindo(a) ao meu perfil, conheça um pouco do meu mundo:
 
 ## Social
 
-[![Website](https://img.shields.io/badge/website-222222?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-lu-clemente.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciene-clemente)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luclemente.dev@gmail.com)
+<a href="https://portfolio-lu-clemente.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/luciene-clemente" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:luclemente.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&label=id:6551)]()
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Lu-Clemente)
+<a href="https://codepen.io/Lu-Clemente" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 
 ![Lu Clemente GitHub stats](https://github-readme-stats.vercel.app/api?username=Lu-Clemente&show_icons=true&count_private=true&hide=issues,contribs&theme=dark&count_private=true)
 
