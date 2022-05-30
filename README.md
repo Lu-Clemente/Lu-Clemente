@@ -18,7 +18,7 @@ Seja bem vindo(a) ao meu perfil, conheça um pouco do meu mundo:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lu-Clemente&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-Clemente&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-Clemente&hide=dart&layout=compact&theme=dark" />
 </div>
 
 ## Linguagens de programação e Frameworks 
@@ -32,28 +32,15 @@ Seja bem vindo(a) ao meu perfil, conheça um pouco do meu mundo:
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> 
 </div><br/>
 
-Código limpo e feliz na stack de JavaScript com TypeScript e React ✨
+Código limpo e feliz na stack de JavaScript com TypeScript e ReactJs/React Native ✨
 
 Recentemente ando tendo novas aventuras com o NodeJs, e em breve, alguns projetos aparecerão!
 
-## Tecnologias do meu dia a dia
-
-<div style="display: inline_block">
-  <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img align="center" alt="react-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img align="center" alt="styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="material-ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img align="center" alt="mongo-db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div><br/>
-
-<p>Para ver essas e outras tecs, veja alguns dos meus projetos:</p>
+## Conheça alguns dos meus trabalhos e tecnologias que utilizo
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lu-Clemente&repo=Portfolio&theme=dark)](https://github.com/Lu-Clemente/Portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lu-Clemente&repo=Marvel-favs&theme=dark)](https://github.com/Lu-Clemente/Marvel-favs)
 
-<br/><br/>
+<br/>
 
 "I will show you how great I am." -Muhammad Ali
