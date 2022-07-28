@@ -5,7 +5,7 @@ Seja bem vindo(a) ao meu perfil, conheça um pouco do meu mundo:
 **Sobre mim**
   - :briefcase:  Desenvolvedora Frontend em Ideia Soluções em TI
   - 📱 Atuo focada no desenvolvimento mobile que a cada dia torna-se uma paixão maior (porém, sempre tem aquele pézinho na web)
-  - :file_folder: Amo a área de arquitetura de projeto
+  - :file_folder: Amo a área de gerenciamento de projeto e testes
   - :rocket: Gosto de estar a todo momento aprendendo uma nova tecnologia
 
 ## Social
@@ -18,7 +18,7 @@ Seja bem vindo(a) ao meu perfil, conheça um pouco do meu mundo:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lu-Clemente&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-Clemente&hide=dart&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-Clemente&hide=dart,c%2B%2B&layout=compact&theme=dark" />
 </div>
 
 ## Linguagens de programação e Frameworks 
