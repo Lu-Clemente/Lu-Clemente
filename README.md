@@ -3,7 +3,7 @@ Seja bem vindo(a) ao meu perfil, conheça um pouco do meu mundo:
 <br/><br/>
 
 **Sobre mim**
-  - :briefcase:  Desenvolvedora Frontend em Ideia Soluções em TI
+  - :briefcase:  Desenvolvedora Frontend em Levee
   - 📱 Atuo focada no desenvolvimento mobile que a cada dia torna-se uma paixão maior (porém, sempre tem aquele pézinho na web)
   - :file_folder: Amo a área de gerenciamento de projeto e testes
   - :rocket: Gosto de estar a todo momento aprendendo uma nova tecnologia
