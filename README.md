@@ -41,7 +41,7 @@ Seja bem vindo(a) ao meu perfil, conheça um pouco do meu mundo:
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lu-Clemente&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-Clemente&hide=c%2B%2B&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-Clemente&hide=c%2B%2B,CMake&layout=compact&theme=dark" />
 </div>
 
 <br/>
