@@ -1,16 +1,16 @@
 <h1>&ltHelloWorld name="Luciene Clemente" dev={true} /&gt</h1>
-Seja bem vindo(a) ao meu perfil, conheça um pouco do meu mundo:
+Welcome to my profile, get to know a bit about my world:
 <br/><br/>
 
 **Sobre mim**
-  - :briefcase:  Desenvolvedora Frontend em Levee
-  - 📱 Atuo focada no desenvolvimento mobile (porém, sempre tem aquele pézinho na web 🧙‍♂️)
-  - :file_folder: Curiosidade: amo a área de gerenciamento de projeto e testes
-  - :rocket: Gosto de estar a todo momento em crescimento e evolução
+  - :briefcase:  Frontend Software Developer at Levee
+  - 📱 Focused on mobile development (though I always keep a foot in the web 🧙‍♂️)
+  - :file_folder: Fun fact: I love project management and testing
+  - :rocket: I enjoy to be constantly growing and evolving
 
-**Código limpo e feliz nas stacks:**
-  - JavaScript e TypeScript com ReactJs e React Native
-  - Dart com Flutter
+**Clean and happy code in the following stacks:**
+  - JavaScript and TypeScript with ReactJs and React Native
+  - Dart with Flutter
 
 ## Social
 
@@ -19,7 +19,7 @@ Seja bem vindo(a) ao meu perfil, conheça um pouco do meu mundo:
 <a href="mailto:luclemente.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&label=id:6551)]()
 
-## Linguagens de programação e Frameworks 
+## Programming languages and Frameworks 
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -37,7 +37,7 @@ Seja bem vindo(a) ao meu perfil, conheça um pouco do meu mundo:
   <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> 
 </div><br/>
 
-## Minhas estatísticas
+## My stats
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lu-Clemente&show_icons=true&count_private=true&include_all_commits=true&theme=dark" />
